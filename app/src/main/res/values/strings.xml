@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login UI Screen</string>
+    <string name="register">REGISTER</string>
+    <string name="terms">I agree to the Terms of Service</string>
+    <string name="sign">SIGN UP</string>
+    <string name="login">LOGIN</string>
+    <string name="signIn">SIGN IN</string>
+    <string name="remember">Remember Me</string>
+    <string name="reset">Reset Password</string>
+</resources>
